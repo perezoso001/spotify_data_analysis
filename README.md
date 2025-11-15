@@ -98,4 +98,4 @@ Contains information about artists:
 For inquiries, feedback, or collaboration opportunities:
 
 - **Email:** 55praveen65@gmail.com  
-- **GitHub:** https://github.com/perezoso001/spotify_data_analysis  
+- **GitHub:** https://github.com/perezoso001
